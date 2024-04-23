@@ -10,7 +10,6 @@ public class App {
         List<Item> jogos = new ArrayList<>();
         List<String> categorias = new ArrayList<>();
 
-
         boolean rodar = true;
         while (rodar){
 
